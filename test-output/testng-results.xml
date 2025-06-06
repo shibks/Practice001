@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-06T14:00:53 IST" name="Default suite" finished-at="2025-06-06T14:02:41 IST" duration-ms="107676">
+    <groups>
+    </groups>
+    <test started-at="2025-06-06T14:00:53 IST" name="Default test" finished-at="2025-06-06T14:02:41 IST" duration-ms="107676">
+      <class name="windowHandles.WindowHandle">
+        <test-method signature="handlingWindow()[pri:0, instance:windowHandles.WindowHandle@1f97cf0d]" started-at="2025-06-06T14:00:53 IST" name="handlingWindow" finished-at="2025-06-06T14:02:41 IST" duration-ms="107626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handlingWindow -->
+      </class> <!-- windowHandles.WindowHandle -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

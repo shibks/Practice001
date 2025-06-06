@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<parameter name="firstName" value="Sanyashib"></parameter>
+<parameter name="lastName" value="Shibin"></parameter>
+<parameter name="email" value="shibifgg@gmail.com"></parameter>
+<parameter name="company" value="Capgemini"></parameter>
+<parameter name="pass" value="09876543"></parameter>
+<parameter name="confirmpass" value="09876543"></parameter>
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Register"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
